@@ -1,0 +1,6 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,CITY,STATE,UPDATED_AT
+1,Asha,Rao,asha@example.test,Chennai,TN,2026-01-01 09:00:00
+2,Ravi,Kumar,ravi@example.test,Bengaluru,KA,2026-01-01 09:00:00
+3,Meera,Shah,meera@example.test,Mumbai,MH,2026-01-01 09:00:00
+4,Arun,Das,arun@example.test,Kochi,KL,2026-01-01 09:00:00
+5,Nila,Jose,nila@example.test,Coimbatore,TN,2026-01-01 09:00:00
