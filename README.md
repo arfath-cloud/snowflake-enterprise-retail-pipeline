@@ -1,4 +1,4 @@
-# Project 01 — Enterprise Retail Data Engineering Pipeline with Snowflake
+# Project 02 — Enterprise Retail Data Engineering Pipeline with Snowflake
 
 An intermediate learning project using synthetic retail data to practise Snowflake SQL, CSV ingestion, transformations, incremental MERGE patterns, SCD Type 2, Streams, Tasks, and data-quality validation.
 
